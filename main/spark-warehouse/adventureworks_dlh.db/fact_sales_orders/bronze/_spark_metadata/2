@@ -1,0 +1,2 @@
+v1
+{"path":"file:///Users/karukavina/Documents/VSCODEFiles/DS/FinalProject/main/spark-warehouse/adventureworks_dlh.db/fact_sales_orders/bronze/part-00000-309c648a-44e3-4fc2-a313-03fc18f93d2b-c000.snappy.parquet","size":20589,"isDir":false,"modificationTime":1766180707506,"blockReplication":1,"blockSize":33554432,"action":"add"}
