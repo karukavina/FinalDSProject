@@ -1,4 +1,4 @@
 v1
-{"path":"file:///Users/karukavina/Documents/VSCODEFiles/DS/FinalProject/main/spark-warehouse/adventureworks_dlh.db/fact_sales_orders/bronze/part-00000-4df1fcb7-5376-45b1-b194-4f2619a15936-c000.snappy.parquet","timestamp":1766180706880,"batchId":0}
-{"path":"file:///Users/karukavina/Documents/VSCODEFiles/DS/FinalProject/main/spark-warehouse/adventureworks_dlh.db/fact_sales_orders/bronze/part-00000-423eeca1-85a4-427c-a56e-8b618d58ab47-c000.snappy.parquet","timestamp":1766180707195,"batchId":0}
-{"path":"file:///Users/karukavina/Documents/VSCODEFiles/DS/FinalProject/main/spark-warehouse/adventureworks_dlh.db/fact_sales_orders/bronze/part-00000-309c648a-44e3-4fc2-a313-03fc18f93d2b-c000.snappy.parquet","timestamp":1766180707506,"batchId":0}
+{"path":"file:///Users/karukavina/Documents/VSCODEFiles/DS/FinalProject/main/spark-warehouse/adventureworks_dlh.db/fact_sales_orders/bronze/part-00000-85753475-01f5-475e-8e2c-bace4f1f3cee-c000.snappy.parquet","timestamp":1766182057299,"batchId":0}
+{"path":"file:///Users/karukavina/Documents/VSCODEFiles/DS/FinalProject/main/spark-warehouse/adventureworks_dlh.db/fact_sales_orders/bronze/part-00000-99a2ee57-f7c0-4370-ada9-9ee68e0f49f3-c000.snappy.parquet","timestamp":1766182057679,"batchId":0}
+{"path":"file:///Users/karukavina/Documents/VSCODEFiles/DS/FinalProject/main/spark-warehouse/adventureworks_dlh.db/fact_sales_orders/bronze/part-00000-f29ce6be-9f30-465d-af33-40df8bccd429-c000.snappy.parquet","timestamp":1766182057984,"batchId":0}
