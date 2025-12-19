@@ -1,2 +1,2 @@
 v1
-{"path":"file:///Users/karukavina/Documents/VSCODEFiles/DS/FinalProject/main/spark-warehouse/adventureworks_dlh.db/fact_sales_orders/bronze/part-00000-b32e16fe-1b36-4767-90b8-0017db35d231-c000.snappy.parquet","size":20589,"isDir":false,"modificationTime":1766182300637,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/karukavina/Documents/VSCODEFiles/DS/FinalProject/main/spark-warehouse/adventureworks_dlh.db/fact_sales_orders/bronze/part-00000-cea41c7c-a8db-4f99-84f8-88a51af4463a-c000.snappy.parquet","size":20589,"isDir":false,"modificationTime":1766182473360,"blockReplication":1,"blockSize":33554432,"action":"add"}
